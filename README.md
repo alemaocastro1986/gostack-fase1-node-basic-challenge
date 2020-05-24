@@ -1,3 +1,5 @@
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg?W=200" height="150">
+
 # Bootcamp GoStack NodeJS - **CHALLENGE**
 ## __Fase 01__
 
